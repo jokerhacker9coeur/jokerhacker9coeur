@@ -6,14 +6,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jokerhacker9coeur&label=Profile%20views&color=0e75b6&style=flat" alt="jokerhacker9coeur" /> </p>
 
 - 🌱 I’m currently learning **Le développement d'application**
-
+- 🐧 I represent myself as a penguin and work at **QoQa.ch** as an otter 🦦.
 - 👨‍💻 All of my projects are available at [github.com/jokerhacker9coeur](github.com/jokerhacker9coeur)
-
-- 💬 Ask me about **html,css,php**
-
-- 📫 How to reach me **jokerhacker9coeur@gmail.com**
-
-- ⚡ Fun fact **I am serious**
+- 💬 Ask me about **html, css, php**
+- 📫 How to reach me: **jokerhacker9coeur@gmail.com**
+- ⚡ Fun fact: **I am serious**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,4 +25,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jokerhacker9coeur&show_icons=true&locale=en" alt="jokerhacker9coeur" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jokerhacker9coeur&" alt="jokerhacker9coeur" /></p>
-
